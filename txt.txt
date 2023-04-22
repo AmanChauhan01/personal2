@@ -1,0 +1,27 @@
+<div class="wrap5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <img src="./images/women-business-laptop-office.webp" alt="">
+                </div>
+                <div class="col-md-6">
+                    <div class="cards p-3">
+                        <h2>Lorem ipsum dolor sit amet consectetur.</h2>
+                        <p class="p3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde deleniti deserunt magni aperiam quam! Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <form action="">
+                            <div class="form-floating mb-3">
+                                <input type="text" class="form-control" id="floatingInput" placeholder="name@example.com">
+                                <label for="floatingInput">Name</label>
+                            </div>
+                            <div class="form-floating mb-3">
+                                <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
+                                <label for="floatingInput">Email address</label>
+                            </div>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto nostrum qui excepturi placeat perspiciatis.</p>
+                            <button>Give It To Me</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
